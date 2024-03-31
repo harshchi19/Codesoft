@@ -1,4 +1,4 @@
-##Task 1
+## TASK 1 
 # JavaFX ATM Machine
 
 This project implements a simple ATM Machine GUI using JavaFX. It allows users to withdraw, deposit, and check their balance. The application is designed with a clean and intuitive interface for ease of use.
