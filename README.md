@@ -87,12 +87,12 @@ This project is part of the Codsoft Internship Task 2. The goal is to create a W
 
 1. **Compile the Java File:**
    ```bash
-   javac WordCounter.java
+   javac main(1).java
    ```
 
 2. **Run the Program:**
    ```bash
-   java WordCounter
+   java main
    ```
 
 3. **Follow On-Screen Instructions:**
