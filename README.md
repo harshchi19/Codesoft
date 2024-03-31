@@ -55,6 +55,63 @@ This project is part of the Codsofe Internship Task 1. The goal is to create a b
 3. **Check Balance**:
    - Click on the "Check Balance" button to view the current account balance.
 
+# TASK 2
+Here's a README file for your Codsoft Internship Task 2:
+
+---
+
+# Word Counter
+
+This project implements a simple Word Counter program in Java. It allows users to count the total number of words in a text, either entered manually or provided via a file path. Additionally, it excludes certain stop words from the word count.
+
+## Task Description
+
+This project is part of the Codsoft Internship Task 2. The goal is to create a Word Counter program with the following functionalities:
+
+- Count the total number of words in a given text.
+- Exclude certain stop words (e.g., "the", "and", "in", "to", "of", "a") from the word count.
+- Provide options to input text manually or via a file path.
+
+## Features
+
+- **Manual Text Input**: Users can enter text manually through the console.
+- **File Input**: Users can provide a file path containing the text to be analyzed.
+- **Stop Words Exclusion**: Certain common stop words are excluded from the word count.
+- **Error Handling**: Proper error handling is implemented for file reading operations.
+
+## Requirements
+
+- Java JDK 8 or later
+
+## How to Run
+
+1. **Compile the Java File:**
+   ```bash
+   javac WordCounter.java
+   ```
+
+2. **Run the Program:**
+   ```bash
+   java WordCounter
+   ```
+
+3. **Follow On-Screen Instructions:**
+   - Choose an option: enter text manually (1) or provide a file path (2).
+   - If choosing option 1, type the text when prompted.
+   - If choosing option 2, provide the file path when prompted.
+
+## Usage
+
+1. **Manual Text Input**:
+   - Choose option 1 when prompted.
+   - Enter the text manually when prompted.
+   - The program will display the total word count excluding stop words.
+
+2. **File Input**:
+   - Choose option 2 when prompted.
+   - Provide the file path containing the text to be analyzed.
+   - The program will read the text from the file, count the words excluding stop words, and display the total word count.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
