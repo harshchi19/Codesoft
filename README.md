@@ -111,6 +111,65 @@ This project is part of the Codsoft Internship Task 2. The goal is to create a W
    - Choose option 2 when prompted.
    - Provide the file path containing the text to be analyzed.
    - The program will read the text from the file, count the words excluding stop words, and display the total word count.
+  
+# TASK 3
+Here's a README file for your Codsoft Internship Task 3:
+
+---
+
+# Number Game
+
+This project implements a simple Number Guessing Game in Java. The game randomly generates a target number within a specified range, and the player has a limited number of attempts to guess the correct number.
+
+## Task Description
+
+This project is part of the Codsoft Internship Task 3. The goal is to create a Number Guessing Game with the following functionalities:
+
+- Generate a random target number within a predefined range.
+- Allow the player to guess the number within a limited number of attempts.
+- Provide feedback on whether the guess is too high or too low.
+- Keep track of the player's score based on the number of correct guesses.
+
+## Features
+
+- **Random Number Generation**: The game generates a random target number within a specified range.
+- **Limited Attempts**: Players have a limited number of attempts to guess the correct number.
+- **Feedback**: Players receive feedback on whether their guess is too high or too low.
+- **Score Tracking**: The game keeps track of the player's score based on the number of correct guesses.
+- **Play Again Option**: After each round, players have the option to play again or exit the game.
+
+## Requirements
+
+- Java JDK 8 or later
+
+## How to Run
+
+1. **Compile the Java File:**
+   ```bash
+   javac mm.java
+   ```
+
+2. **Run the Program:**
+   ```bash
+   java mm
+   ```
+
+3. **Follow On-Screen Instructions:**
+   - Guess a number within the specified range.
+   - Receive feedback on each guess and attempt to guess the correct number.
+   - Choose whether to play again or exit the game after each round.
+
+## Usage
+
+1. **Guessing the Number**:
+   - Enter your guess when prompted.
+   - Receive feedback on whether your guess is too high, too low, or correct.
+   - Keep track of your attempts and try to guess the correct number within the limited attempts.
+
+2. **Play Again**:
+   - After each round, choose whether to play again or exit the game.
+   - Your total score will be displayed when you choose to exit the game.
+
 
 ## License
 
